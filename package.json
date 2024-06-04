@@ -44,7 +44,7 @@
   "devDependencies": {
     "@babel/core": "^7.0.0-beta.49",
     "@vue/cli-plugin-babel": "^3.0.0-beta.6",
-    "@vue/cli-plugin-eslint": "^3.0.0-beta.6",
+    "@vue/cli-plugin-eslint": "^5.0.8",
     "@vue/cli-service": "^3.0.0-beta.6",
     "copy-webpack-plugin": "^4.5.1",
     "eslint": "^5.1.0",
@@ -55,7 +55,7 @@
     "stylus-loader": "^3.0.2",
     "viewcode": "0.0.27",
     "vue-template-compiler": "^2.5.13",
-    "vuepress": "^0.10.1",
+    "vuepress": "^1.9.10",
     "webpack": "^4.12.0"
   },
   "babel": {
